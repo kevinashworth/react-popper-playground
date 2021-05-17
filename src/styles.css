@@ -1,0 +1,9 @@
+#root {
+  background-color: grey;
+}
+
+.App {
+  font-family: sans-serif;
+  height: 400px;
+  text-align: center;
+}
